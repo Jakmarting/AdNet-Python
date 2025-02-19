@@ -1,7 +1,7 @@
 
 # --- IMPORTS --- #
-from passwordso import *
+import passwordso
 
 if __name__ == '__main__':
-    test_func()
+    passwordso.init()
     print("Hello World")
