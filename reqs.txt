@@ -1,5 +1,5 @@
-10
-1
-1
-1
-1
+password_length : 10
+digit_count : 1
+lowercase_count : 1
+uppercase_count : 1
+special_count : 1
