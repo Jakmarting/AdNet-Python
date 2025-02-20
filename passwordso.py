@@ -117,5 +117,5 @@ def generate_password():
     return ''.join(generate_password)
 
 def init():
-    print("Initialising")
+    print("Initialising...")
     load_requirements(req_filename)
